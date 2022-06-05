@@ -1,0 +1,9 @@
+public/
+dist/
+output/
+node_modules/
+.next/
+next.config.js
+postcss.config.js
+tailwind.config.js
+**/*.d.ts
